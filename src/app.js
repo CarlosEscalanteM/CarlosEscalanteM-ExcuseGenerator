@@ -18,7 +18,7 @@ let generateExcuse = () => {
     "My sweet grandma",
     "My neighbor's stupid rabbit",
     "My noisy parrot",
-    "My english teacher"
+    "My stupid english teacher"
   ];
   let actionPerformed = [
     "destroyed",
